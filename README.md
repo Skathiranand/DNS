@@ -1,4 +1,4 @@
-# DNS-Algorithm-Using-Python
+# IP-FINDER-PORT-SCANNER-Using-GUI
 ## Start the GUI event loop
 root.mainloop()
 
